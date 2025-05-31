@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: #0ff;
+}
+
+.grid {
+  border: 2px solid #333;
+  background: #000;
+  display: inline-block;
+  box-shadow: 0 0 12px #0ff3;
+}
+
